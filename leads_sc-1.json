@@ -1,0 +1,173 @@
+{
+  "leads": [
+    {
+      "id": "1",
+      "prénom": "John",
+      "nom": "Doe",
+      "email": "john.doe@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "75",
+      "age": "24",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "2",
+      "prénom": "Mickey",
+      "nom": "Mouse",
+      "email": "mickey.mouse@study.fr",
+      "téléphone": "+33398329832",
+      "Département": "78",
+      "age": "18",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "3",
+      "prénom": "Minnie",
+      "nom": "Mouse",
+      "email": "minnie.mouse@study.fr",
+      "téléphone": "+3333339823",
+      "Département": "91",
+      "age": "18",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "4",
+      "prénom": "Bob",
+      "nom": "Leponge",
+      "email": "bob.leponge@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "91",
+      "age": "28",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "5",
+      "prénom": "Patrick",
+      "nom": "Letoile",
+      "email": "patrick.letoile@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "83",
+      "age": "29",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "6",
+      "prénom": "Bob",
+      "nom": "Bricoleur",
+      "email": "bob.bricoleur@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "78",
+      "age": "47",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "7",
+      "prénom": "Emmanuel",
+      "nom": "Macron",
+      "email": "emmanuel.macron@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "07",
+      "age": "38",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "8",
+      "prénom": "Clark",
+      "nom": "Kent",
+      "email": "clark.kent@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "13",
+      "age": "43",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "9",
+      "prénom": "Peter",
+      "nom": "Parker",
+      "email": "john.doe@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "07",
+      "age": "24",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "10",
+      "prénom": "Pablo",
+      "nom": "Picasso",
+      "email": "pablo.picasso@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "78",
+      "age": "89",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "11",
+      "prénom": "Julien",
+      "nom": "Bouland",
+      "email": "julien.bouland@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "78",
+      "age": "27",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "12",
+      "prénom": "David",
+      "nom": "Jungblut",
+      "email": "david.jungblut@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "75",
+      "age": "28",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    },
+    {
+      "id": "13",
+      "prénom": "Hugo",
+      "nom": "Vast",
+      "email": "hugo.vast@study.fr",
+      "téléphone": "+3333333333",
+      "Département": "91",
+      "age": "21",
+      "revenue": 3.5,
+      // les champs si dessous sont des questions à poser au client lors de l'appel et à remplir lors de l'edit
+      "Intéressé pour être mis en relation avec des Advisors ?": "",
+      "Niveau d'études de l'étudiant": ""
+    }
+  ]
+}
