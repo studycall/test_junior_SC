@@ -16,33 +16,33 @@ Technical test for junior applications
   - You need to add in the database the clients given in the file clients_sc.json and use it for your user journey
 
 ### User
- [ ] A user can log in with a valid username and password through a login screen
+- [ ] A user can log in with a valid username and password through a login screen
 
- [ ] A user can see a list of clients
+- [ ] A user can see a list of clients
 
- [ ] A user can see a client
+- [ ] A user can see a client
 
- [ ] A user can edit a client to fill his informations
+- [ ] A user can edit a client to fill his informations
 
- [ ] A user can set a monthly objective for his revenue
+- [ ] A user can set a monthly objective for his revenue
 
- [ ] A user can see his total revenue on a given period
+- [ ] A user can see his total revenue on a given period
 
 ### Client
- [ ] A client has all the data you can find in the json as attributes, store the more relevant
+- [ ] A client has all the data you can find in the json as attributes, store the more relevant
 
- [ ] A client has a revenue that is the money the caller make
+- [ ] A client has a revenue that is the money the caller make
 
- [ ] A client needs to have a status to be qualified
+- [ ] A client needs to have a status to be qualified
 
 
 ## Bonus
 - Some nice to haves, when there is time to spare.
 
- [ ] A user can set a revenue obective for the month
+- [ ] A user can set a revenue obective for the month
 
- [ ] A user can see the money he made during the month
+- [ ] A user can see the money he made during the month
 
- [ ] A user can generate a monthly invoice
+- [ ] A user can generate a monthly invoice
 
- [ ] Add or improve a feature of your own choice
+- [ ] Add or improve a feature of your own choice
