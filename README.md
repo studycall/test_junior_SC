@@ -13,6 +13,7 @@ Technical test for junior applications
 ## Assignment :
   - You are asked to build a call center application
   - As a user I want to see a list of all my clients. I should be able to click on them in order to acess to their show page, where I can find their phone number to call them and to edit them if I call them. The edit page is a form where I can fill all the blank attributes. After the editing is done, the client must have a status "done". Then I can work on my other clients.
+  - You need to add in the database the clients given in the file clients_sc.json and use it for your user journey
 
 ### User
  [ ] A user can log in with a valid username and password through a login screen
