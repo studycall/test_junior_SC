@@ -12,29 +12,27 @@ Technical test for junior applications
 
 ## Assignment :
   - You are asked to build a call center application
+  - As a user I want to see a list of all my clients. I should be able to click on them in order to acess to their show page, where I can find their phone number to call them and to edit them if I call them. The edit page is a form where I can fill all the blank attributes. After the editing is done, the client must have a status "done". Then I can work on my other clients.
 
 ### User
  [ ] A user can log in with a valid username and password through a login screen
 
- [ ] A user can see a list of leads
+ [ ] A user can see a list of clients
 
- [ ] A user can see a lead
+ [ ] A user can see a client
 
- [ ] A user can edit a lead to qualify it
+ [ ] A user can edit a client to fill his informations
 
+ [ ] A user can set a monthly objective for his revenue
 
-### Lead
- [ ] A lead has all the data you can find in the json as attributes, store the more relevant
+ [ ] A user can see his total revenue on a given period
 
- [ ] A lead has a revenue that is the money the caller make
+### Client
+ [ ] A client has all the data you can find in the json as attributes, store the more relevant
 
- [ ] A lead needs to have a status to be qualified
+ [ ] A client has a revenue that is the money the caller make
 
-
-### Revenue
- [ ] A revenue has an objective
-
- [ ] A revenue has a total revenue
+ [ ] A client needs to have a status to be qualified
 
 
 ## Bonus
